@@ -23,7 +23,7 @@ This project provides an analysis of website traffic over time, using a dataset 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Website-Traffic-Analysis.git
+   git clone https://github.com/Kmmadu/Website-Traffic-Analysis.git
 
    ---
 
